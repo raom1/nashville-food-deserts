@@ -3,8 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# api keys
+keys.pkl
+
 # C extensions
 *.so
+
+# Data
+data/
 
 # Distribution / packaging
 .Python
