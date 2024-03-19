@@ -1,5 +1,7 @@
 # Food Deserts in Davidson County
 
+This project was for a presentation at the Nashville Analytics Summit. See the kaggle kernel: https://www.kaggle.com/code/raomahesh/nashville-food-deserts
+
 #### Data sources and other references
 - Example using Google `nearbysearch`: https://python.gotrained.com/google-places-api-extracting-location-data-reviews/  
 - Davidson County boarder geojson: https://data.nashville.gov/General-Government/Davidson-County-Border-GIS-/whcy-hmdk  
